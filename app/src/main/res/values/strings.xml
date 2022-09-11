@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PermissionsApp</string>
+    <string name="title_permission">Verifique as permissoes so app.</string>
+    <string name="message_permisssion">Por favor de permissão em configurações do app.</string>
+    <string name="message_permisssion2">O Aplicativo não vai funcionar corretamente sem suas permissões. Considere dar permissão em configurações do app.</string>
+    <string name="accept_permission">Verifique as permissoes so app.</string>
+    <string name="snackbar_ok">OK</string>
+    <string name="snackbar_aceitar">Aceitar</string>
+    <string name="snackbar_cancel">Negar</string>
+    <string name="snackbar_permission">Por favor de permissão em configurações do app. \nO Aplicativo não vai funcionar corretamente sem suas permissões.</string>
+</resources>
